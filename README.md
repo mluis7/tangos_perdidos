@@ -10,16 +10,6 @@ El objetivo del proyecto es consolidar y visibilizar partituras de tango dispers
 ## Fuentes de datos
 Los datos provienen de sitios y/o documentos públicos y fueron procesados con software desarrollado al efecto.
 
-## Cómo usar los datos
-**Descargar las planillas a la computadora**  
-
-- Descargar el archivo comprimido con las planillas [aquí](https://github.com/mluis7/tangos_perdidos/archive/refs/tags/release-0.1.zip).
-- Descomprimir el zip y abrir `tango-fecha-orquesta-autores-partes-partitura-musicxml.csv` o `tangos-con-partitura-all.csv` con Excel o LibreOffice.
-
-
-**Abrir las planillas en el mismo sitio**  
-- Hacer click en `tango-fecha-orquesta-autores-partes-partitura-musicxml.csv` o `tangos-con-partitura-all.csv` y usar el buscador simple que ofrece el sitio.
-
 **Principales**  
 
 - [Todo Tango](https://www.todotango.com/musica/obras/partituras/t/0/0/) - lista con links a partituras originales.
@@ -33,6 +23,16 @@ Los datos provienen de sitios y/o documentos públicos y fueron procesados con s
 - [Biblioteca Pública "Esteban Echeverría"](https://pergamo.legislatura.gob.ar/biblioteca/opac.php?a=bsqAv&c=&arMust1=MATERIAS.Materia&trMust1=tango&arMust2=MATERIAS.Materia&trMust2=partitura&o=&vm=ficha&p=1&i=100&flt=%5B%22tem%3APARTITURA%22%5D)  - partituras originales.
 - [Biblioteca Nacional](https://catalogo.bn.gov.ar/F/1JYNTDLMAMQCJ5BN51FLLEPQY3AGNU54VLMPMDE8NDBUEQL9CT-22619?func=find-c&ccl_term=%28WSU+%3D+%28+tango+%29%29+and+%28WLN+%3D+%28+SPA+%29%29+and+%28WFM+%3D+%28+MU+%29%29+and+%28WFT+%3D+%28+VIEW+%29%29&local_base=GENER)  - partituras originales.
 - [Martín Benedetti, profesor de bandoneón, guitarra y armonía de tango online](martinbenedetti.com.ar/descargas) - desgrabaciones modernas, gratis y comerciales.
+
+## Cómo usar los datos
+**Descargar las planillas a la computadora**  
+
+- Descargar el archivo comprimido con las planillas [aquí](https://github.com/mluis7/tangos_perdidos/archive/refs/tags/release-0.1.zip).
+- Descomprimir el zip y abrir `tango-fecha-orquesta-autores-partes-partitura-musicxml.csv` o `tangos-con-partitura-all.csv` con Excel o LibreOffice.
+
+
+**Abrir las planillas en el mismo sitio**  
+- Hacer click en `tango-fecha-orquesta-autores-partes-partitura-musicxml.csv` o `tangos-con-partitura-all.csv` y usar el buscador simple que ofrece el sitio.
 
 ## Metodología
 Los datos se consolidan en dos grupos de acuerdo a la información que contienen
