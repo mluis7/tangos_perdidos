@@ -10,6 +10,16 @@ El objetivo del proyecto es consolidar y visibilizar partituras de tango dispers
 ## Fuentes de datos
 Los datos provienen de sitios y/o documentos públicos y fueron procesados con software desarrollado al efecto.
 
+## Cómo usar los datos
+**Descargar las planillas a la computadora**  
+
+- Descargar el archivo comprimido con las planillas [aquí](https://github.com/mluis7/tangos_perdidos/archive/refs/tags/release-0.1.zip).
+- Descomprimir el zip y abrir `tango-fecha-orquesta-autores-partes-partitura-musicxml.csv` o `tangos-con-partitura-all.csv` con Excel o LibreOffice.
+
+
+**Abrir las planillas en el mismo sitio**  
+- Hacer click en `tango-fecha-orquesta-autores-partes-partitura-musicxml.csv` o `tangos-con-partitura-all.csv` y usar el buscador simple que ofrece el sitio.
+
 **Principales**  
 
 - [Todo Tango](https://www.todotango.com/musica/obras/partituras/t/0/0/) - lista con links a partituras originales.
