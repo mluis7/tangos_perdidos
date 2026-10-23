@@ -1,5 +1,7 @@
 # Tangos Perdidos
 
+**Idioma:** **Español** | [English](README.en.md)
+
 El objetivo del proyecto es consolidar y visibilizar partituras de tango dispersas por Internet y agregar si es posible datos adicionales.
 
 - Título, autor, orquesta, cantor, año (dato existente).
