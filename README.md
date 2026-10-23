@@ -13,27 +13,27 @@ Los datos provienen de sitios y/o documentos públicos y fueron procesados con s
 **Principales**  
 
 - [Todo Tango](https://www.todotango.com/musica/obras/partituras/t/0/0/) - lista con links a partituras originales.
-- [tango-discographies.github.io](tango-discographies.github.io) - datos de la discografía.
+- [tango-discographies.github.io](https://tango-discographies.github.io) - datos de la discografía.
 - [Cancionero del Tango de Hugo Satorre](https://hugosatorre.com.ar/portfolio/cancionero/) - formato digital procesable (musicxml).
 
 **Auxiliares**  
 
-- [partiturastango.blogspot.com](partiturastango.blogspot.com) - partituras originales.
+- [partiturastango.blogspot.com](https://partiturastango.blogspot.com) - partituras originales.
 - [Archivo de Internet en archive.org](https://archive.org/search?query=collection%3A%28partituramagazine+OR+musicmagazines%29+AND+subject%3A%28partitura%29+AND+language%3A%28Spanish%29+) - partituras originales.
 - [Biblioteca Pública "Esteban Echeverría"](https://pergamo.legislatura.gob.ar/biblioteca/opac.php?a=bsqAv&c=&arMust1=MATERIAS.Materia&trMust1=tango&arMust2=MATERIAS.Materia&trMust2=partitura&o=&vm=ficha&p=1&i=100&flt=%5B%22tem%3APARTITURA%22%5D)  - partituras originales.
 - [Biblioteca Nacional](https://catalogo.bn.gov.ar/F/1JYNTDLMAMQCJ5BN51FLLEPQY3AGNU54VLMPMDE8NDBUEQL9CT-22619?func=find-c&ccl_term=%28WSU+%3D+%28+tango+%29%29+and+%28WLN+%3D+%28+SPA+%29%29+and+%28WFM+%3D+%28+MU+%29%29+and+%28WFT+%3D+%28+VIEW+%29%29&local_base=GENER)  - partituras originales.
-- [Martín Benedetti, profesor de bandoneón, guitarra y armonía de tango online](martinbenedetti.com.ar/descargas) - desgrabaciones modernas, gratis y comerciales.
+- [Martín Benedetti, profesor de bandoneón, guitarra y armonía de tango online](https://martinbenedetti.com.ar/descargas-2/) - desgrabaciones modernas, gratis y comerciales.
 
 ## Sitios de Internet con partituras de tango
 Esto sitios contienen imágenes o documentos pdf de un número significativo de tangos. Los links más abajo llevan al buscador o a los índices de los mismos.
 
 - [Todo Tango](https://www.todotango.com/musica/obras/partituras/t/0/0/)
 - [Cancionero del Tango de Hugo Satorre](https://hugosatorre.com.ar/portfolio/cancionero/)
-- [partiturastango.blogspot.com](partiturastango.blogspot.com) - blog antiguo pero con link a un [respositorio extenso de partituras](https://www.mediafire.com/folder/qxlnl1yw5ca5t/Partituras_Tango).
+- [partiturastango.blogspot.com](https://partiturastango.blogspot.com) - blog antiguo pero con link a un [respositorio extenso de partituras](https://www.mediafire.com/folder/qxlnl1yw5ca5t/Partituras_Tango).
 - [Archivo de Internet en archive.org](https://archive.org/search?query=collection%3A%28partituramagazine+OR+musicmagazines%29+AND+subject%3A%28partitura%29+AND+language%3A%28Spanish%29+)
 - [Biblioteca Pública "Esteban Echeverría"](https://pergamo.legislatura.gob.ar/biblioteca/opac.php?a=bsqAv&c=&arMust1=MATERIAS.Materia&trMust1=tango&arMust2=MATERIAS.Materia&trMust2=partitura&o=&vm=ficha&p=1&i=100&flt=%5B%22tem%3APARTITURA%22%5D)
 - [Biblioteca Nacional](https://catalogo.bn.gov.ar/F/1JYNTDLMAMQCJ5BN51FLLEPQY3AGNU54VLMPMDE8NDBUEQL9CT-22619?func=find-c&ccl_term=%28WSU+%3D+%28+tango+%29%29+and+%28WLN+%3D+%28+SPA+%29%29+and+%28WFM+%3D+%28+MU+%29%29+and+%28WFT+%3D+%28+VIEW+%29%29&local_base=GENER)
-- [Martín Benedetti, profesor de bandoneón, guitarra y armonía de tango online](martinbenedetti.com.ar/descargas) - algunas partituras son de libre acceso.
+- [Martín , profesor de bandoneón, guitarra y armonía de tango online](https://martinbenedetti.com.ar/descargas) - algunas partituras son de libre acceso.
 - [Desgrabaciones de Tango para Todxs](https://lucascaceres.com.ar/dtt-ttfe)
 - [superpartituras.com.br](https://www.superpartituras.com.br/genero/tango)
 - [International Music Score Library Project](https://imslp.org/index.php?title=Category:Tangos&transclude=Template:Catintro)
