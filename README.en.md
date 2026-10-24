@@ -49,12 +49,12 @@ The following resources are commercial, but their prices appear reasonable or af
 ## How to use the data
 **Download the spreadsheets to your computer**
 
-- Download the compressed archive containing the spreadsheets [here](https://github.com/mluis7/tangos_perdidos/archive/refs/tags/release-0.1.zip).
-- Extract the ZIP file and open `tango-fecha-orquesta-autores-partes-partitura-musicxml.csv` or `tangos-con-partitura-all.csv` with Excel or LibreOffice.
+- Download the compressed archive containing the spreadsheets [here](https://github.com/mluis7/tangos_perdidos/archive/refs/tags/release-0.3.zip).
+- Extract the ZIP file and open [tango-fecha-orquesta-autores-partes-partitura-musicxml.csv](tango-fecha-orquesta-autores-partes-partitura-musicxml.csv) or [tangos-con-partitura-all.csv](tangos-con-partitura-all.csv) with Excel or LibreOffice.
 
 **Open the spreadsheets directly on the website**
 
-- Click `tango-fecha-orquesta-autores-partes-partitura-musicxml.csv` or `tangos-con-partitura-all.csv` and use the site's built-in simple search feature.
+- Click [`tango-fecha-orquesta-autores-partes-partitura-musicxml.csv`](tango-fecha-orquesta-autores-partes-partitura-musicxml.csv) or [`tangos-con-partitura-all.csv`](tangos-con-partitura-all.csv) and use the site's built-in simple search feature.
 
 ## Methodology
 The data is consolidated into two groups according to the information available:
