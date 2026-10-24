@@ -50,12 +50,12 @@ Las siguientes referencias son comerciales pero al parecer a precios razonables 
 ## Cómo usar los datos
 **Descargar las planillas a la computadora**  
 
-- Descargar el archivo comprimido con las planillas [aquí](https://github.com/mluis7/tangos_perdidos/archive/refs/tags/release-0.1.zip).
-- Descomprimir el zip y abrir `tango-fecha-orquesta-autores-partes-partitura-musicxml.csv` o `tangos-con-partitura-all.csv` con Excel o LibreOffice.
+- Descargar el archivo comprimido con las planillas [aquí](https://github.com/mluis7/tangos_perdidos/archive/refs/tags/release-0.3.zip).
+- Descomprimir el zip y abrir [tango-fecha-orquesta-autores-partes-partitura-musicxml.csv](tango-fecha-orquesta-autores-partes-partitura-musicxml.csv) o [tangos-con-partitura-all.csv](tangos-con-partitura-all.csv) con Excel o LibreOffice.
 
 
 **Abrir las planillas en el mismo sitio**  
-- Hacer click en `tango-fecha-orquesta-autores-partes-partitura-musicxml.csv` o `tangos-con-partitura-all.csv` y usar el buscador simple que ofrece el sitio.
+- Hacer click en [tango-fecha-orquesta-autores-partes-partitura-musicxml.csv](tango-fecha-orquesta-autores-partes-partitura-musicxml.csv) o [tangos-con-partitura-all.csv](tangos-con-partitura-all.csv) y usar el buscador simple que ofrece el sitio (lupa arriba del primer registro - a la izquierda). 
 
 ## Metodología
 Los datos se consolidan en dos grupos de acuerdo a la información que contienen
