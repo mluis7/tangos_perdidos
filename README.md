@@ -2,12 +2,7 @@
 
 **Idioma:** **Español** | [English](README.en.md)
 
-El objetivo del proyecto es consolidar y visibilizar partituras de tango dispersas por Internet y agregar si es posible datos adicionales.
-
-- Título, autor, orquesta, cantor, año (dato existente).
-- Partituras agrupadas en documentos, libros o archivos digitales sin índice y donde obtenerlas. Todos los registros proveen acceso a una partitura.
-- Estructura musical de los tangos: partes y cantidad de compases por parte (dato adicional procesado).
-- Sitios de Internet que permiten encontrar partituras por títulos, autores o letras.
+**Tangos Perdidos** es un proyecto dedicado a recopilar, organizar y facilitar el acceso a partituras de tango dispersas en Internet, muchas de ellas difíciles de encontrar. Además de reunir referencias y enlaces a las partituras, el proyecto integra información sobre compositores, orquestas, intérpretes y grabaciones, e incorpora datos sobre la estructura musical de los tangos obtenidos mediante el procesamiento de partituras digitales.
 
 ## Fuentes de datos
 Los datos provienen de sitios y/o documentos públicos y fueron procesados con software desarrollado al efecto.

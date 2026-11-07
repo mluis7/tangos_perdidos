@@ -2,12 +2,7 @@
 
 **Language:** [Español](README.md) | **English**
 
-The goal of this project is to bring together and make more accessible tango sheet music scattered across the Internet, adding further information whenever possible.
-
-- Title, composer/author, orchestra, singer, year (existing information).
-- Scores collected in documents, books, or digital archives without an index, along with where to find them. Every record provides access to a score.
-- Musical structure of tangos: sections and number of measures per section (additional processed data).
-- Websites where scores can be found by title, author, or lyrics.
+**Tangos Perdidos** is a project dedicated to collecting, organizing, and making tango sheet music scattered across the Internet easier to find, including scores that are otherwise difficult to locate. Beyond providing references and links to sheet music, the project brings together information on composers, orchestras, performers, and recordings, and adds musical structure data extracted through the processing of digital scores.
 
 ## Data sources
 The data comes from public websites and/or documents and was processed using software developed for this purpose.
